@@ -9,7 +9,7 @@ export default function About() {
       <p>
         Halo 👋, saya <b>Elvina Putri Olivia</b>, seorang pelajar SMKN 8 Malang jurusan 
         Rekayasa Perangkat Lunak. Saya memiliki minat dalam <b>Web Development</b> 
-         dan sedang belajar <b>React</b>, <b>Tailwind CSS</b>, serta pengembangan 
+         dan sedang belajar <b>React</b>, serta pengembangan 
         aplikasi Android.
       </p>
       <p>
